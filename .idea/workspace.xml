@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a349194-3b38-4da9-ab99-b7851eda9f18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27f6yveIbbWIL6498oirZwR9euZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a349194-3b38-4da9-ab99-b7851eda9f18" name="Default Changelist" comment="" />
+      <created>1649699051301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649699051301</updated>
+      <workItem from="1649699052535" duration="3163000" />
+      <workItem from="1649702321679" duration="233000" />
+      <workItem from="1649756578137" duration="2330000" />
+      <workItem from="1649760218506" duration="17897000" />
+      <workItem from="1649842461736" duration="7303000" />
+      <workItem from="1649854343155" duration="26000" />
+      <workItem from="1649864624971" duration="16311000" />
+      <workItem from="1649958573666" duration="4800000" />
+      <workItem from="1650016490347" duration="21190000" />
+      <workItem from="1650121278286" duration="6414000" />
+      <workItem from="1650283617000" duration="4499000" />
+      <workItem from="1650306476337" duration="1771000" />
+      <workItem from="1650310235088" duration="18000" />
+      <workItem from="1650363715867" duration="236000" />
+      <workItem from="1650655096567" duration="936000" />
+      <workItem from="1650716658395" duration="1826000" />
+      <workItem from="1650994860391" duration="1626000" />
+      <workItem from="1651063813402" duration="89000" />
+      <workItem from="1651084153445" duration="606000" />
+      <workItem from="1651084980997" duration="1185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649766048385">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1649766048385" />
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1651085350375">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1651085350375" />
+    <state x="598" y="327" key="Github.ShareDialog" timestamp="1651085760014">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="598" y="327" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1651085760014" />
+    <state x="521" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1651085744134">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="521" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.860@0.0.1440.860" timestamp="1651085744134" />
+  </component>
+</project>
