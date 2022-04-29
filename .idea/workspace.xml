@@ -1,7 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a349194-3b38-4da9-ab99-b7851eda9f18" name="Default Changelist" comment="" />
+    <list default="true" id="1a349194-3b38-4da9-ab99-b7851eda9f18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avtobus1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avtobus2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/darkBlue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/driving-school-og.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecni naredbi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/OgranicuvanjeNaBrzina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaNaSoobrakjajVoDveteNasoki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaNaSoobrakjajotZaMopedi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaNaSooobrakjajotZaMotorcikli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaZaParkiranje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaZaPolukruznoSvrtuvanje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaZaSoobrakjajVoEdnaNasoka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaZaSoobrakjajZaTovarniMotorniVozila.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaZaSvrtuvanjeLevo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaZaSvrtuvasnjeNadesno.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZabranaZaZapiranjeIParkiranje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izrecniNaredbi/ZadolzitelnoZapiranje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/БрзинаКојаСеПрепорачува.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ДецаНаПатот.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ДозволеноОбиколување.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ЗавршувањеНаПатотСоПрвенствоНаМинување.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ЗонаВоКојаЕОграниченаБрзината.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ИздаденостНаПатот.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ОбележанПешачкиПремин.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/Паркинг.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ПатСоЕднонасоченСообраќај.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ПатСоПрвенственоМинување.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ПешачкаЗона.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ПрестанувањеЗаНајмалаДозволенаБрзина.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ПрестанувањеНаОграничувањеНаБрзината.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/izvestuvanje/ПрестанувањеНаСитеЗабрани.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/light blue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mercedes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/motor2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/motor3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/дозволениНасоки.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/дозволениНасоки2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/дозволениНасоки3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/задолжителнаНасока.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/задолжителнаНасока2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/задолжителнаНасока3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/задолжителнаНасока4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/задолжителнаНасока5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/задолжителнаНасока6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/круженТек.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/најмалаДозволенаБрзина.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/патекаЗаВелосипедисти.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/obvrska/патекаЗаПешаци.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/opasnostNaPatot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/Тунел.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/близинаНаАвтобускаСтаница.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/децаНаПатот.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/животниНаПатот.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/кривинаНаДесно.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/кривинаНаЛево.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/неутврденаБанкина.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/обележанПешакиПремин.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/опаснаНагорнина.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/опаснаНадолнина.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/опасностНаПатот.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/опасностОдПожар.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/пешациНаПат.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opasnost/сообракјајВоДвеНасоки.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/opelCorsa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pocetnaSlika.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/polo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/prasanje1,3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/prasanje1.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/prasanje1.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/prasanje1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање2.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање2.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање2.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање2.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање3.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање3.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање3.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање3.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање4.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање4.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање4.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање4.4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање5.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање5.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање5.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање6.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање6.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање6.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање7.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање7.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање7.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prasanjaA/прашање9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/kruzen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/obikoluvanje.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/propisi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/semafori.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/semafori2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/zabraneto2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/забрането1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/забрането3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/крстосница со кружен тек.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/паркирање.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/престигнување.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/престигнување1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/престигнување2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/престигнување3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/престигнување4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/разминување1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/разминување2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/т крстосница.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/у крстосница.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/х крстосница.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pravila/хоризонтална.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/scania.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/signs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/volvo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/мотор1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/обврска.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/опасност.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/katA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/katB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/katC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/katD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prasanjaKatA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pravila.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testD.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorijali.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/znaci.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +202,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DNICK-domashna2-186116-main" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,21 +234,34 @@
       <workItem from="1651063813402" duration="89000" />
       <workItem from="1651084153445" duration="606000" />
       <workItem from="1651084980997" duration="1185000" />
+      <workItem from="1651169457917" duration="1087000" />
+      <workItem from="1651241855519" duration="2614000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649766048385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1649766048385" />
-    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1651085350375">
+    <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1651242118911">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1651085350375" />
+    <state x="500" y="184" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1651242118911" />
     <state x="598" y="327" key="Github.ShareDialog" timestamp="1651085760014">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
